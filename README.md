@@ -12,6 +12,11 @@ in my website i create webstore that help you to get foodrecipes done by the dif
 # azure link https://black-bay-01de4c910.1.azurestaticapps.net/
 
 # Home Page
+![scrnli_8_3_2022_6-01-20 PM](https://user-images.githubusercontent.com/85993420/182608497-c91a4431-f81e-44ed-9f7a-84a0aea5f650.png)
+![scrnli_8_3_2022_6-02-02 PM](https://user-images.githubusercontent.com/85993420/182608507-4e68fc8a-983b-4122-b53f-f647aed663d1.png)
+![scrnli_8_3_2022_6-02-02 PM](https://user-images.githubusercontent.com/85993420/182608516-98f8fe96-056b-4f06-a623-26b33e0cada5.png)
+![scrnli_8_3_2022_6-02-15 PM](https://user-images.githubusercontent.com/85993420/182608529-72ecafb0-4b31-4527-8344-8ea7bc4c0c38.png)
+![scrnli_8_3_2022_6-02-22 PM](https://user-images.githubusercontent.com/85993420/182608535-7b76d81e-fce5-46af-b7d4-12deb760f6d8.png)
 
 
 # About us
