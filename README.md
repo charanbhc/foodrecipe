@@ -35,7 +35,7 @@ in my website i create webstore that help you to get foodrecipes done by the dif
 
 
 
-# demo video that i make to show my project : https://drive.google.com/file/d/1_vTCA0A2dwFhuaBCE18jLIr8cpibLL1u/view?usp=sharing
+# demo video that i make to show my project : https://kluniversityin-my.sharepoint.com/:v:/g/personal/2000030116_kluniversity_in/EQU3n77AYaFDo5Mg8ulkM9YB-L4iSm1wyy7FcOy_HIBlWg?e=8ma7Td
 
 # azure portal screen shot
 ![scrnli_8_3_2022_6-00-37 PM](https://user-images.githubusercontent.com/85993420/182608115-dce8d06a-f34d-41ce-87d5-c8de2988c61b.png)
