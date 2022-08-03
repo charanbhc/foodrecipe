@@ -9,7 +9,7 @@ in my website i create webstore that help you to get foodrecipes done by the dif
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-# azure link https://black-bay-01de4c910.1.azurestaticapps.net/
+# azure link : https://black-bay-01de4c910.1.azurestaticapps.net/
 
 # Home Page
 ![scrnli_8_3_2022_6-01-20 PM](https://user-images.githubusercontent.com/85993420/182608497-c91a4431-f81e-44ed-9f7a-84a0aea5f650.png)
@@ -35,7 +35,7 @@ in my website i create webstore that help you to get foodrecipes done by the dif
 
 
 
-# demo video that i make to show my project:
+# demo video that i make to show my project : https://drive.google.com/file/d/1_vTCA0A2dwFhuaBCE18jLIr8cpibLL1u/view?usp=sharing
 
 # azure portal screen shot
 ![scrnli_8_3_2022_6-00-37 PM](https://user-images.githubusercontent.com/85993420/182608115-dce8d06a-f34d-41ce-87d5-c8de2988c61b.png)
